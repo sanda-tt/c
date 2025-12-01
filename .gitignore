@@ -1,0 +1,12 @@
+# Visual Studio 缓存（必加）
+.vs/
+*.suo
+*.user
+*.vcxproj.user
+*.ipch/
+# 其他常见缓存（可选，避免后续其他问题）
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
